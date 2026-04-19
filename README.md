@@ -4,9 +4,9 @@
 ## I have completed some 2d artworks and am hoping to apply them into an original 2D game.
 
 ## Fun facts:
-## I have a pet lovebird called Bella
-## I love many different types of tea. ( My fav brand is Chagee )
-## Hobbies: Watching anime, gaming, eating
+# I have a pet lovebird called Bella
+# I love many different types of tea. ( My fav brand is Chagee )
+# Hobbies: Watching anime, gaming, eating
 <!--
 **TeaAddicttt/TeaAddicttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
