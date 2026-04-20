@@ -6,7 +6,7 @@ I have completed some 2d artworks and am hoping to apply them into an original 2
 
 ### Fun facts:
 1. I have a pet lovebird called Bella 🐦
-2. I love many different types of tea. ( My fav brand is Chagee ) 🍵
+2. I love many different types of tea. ( My fav tea brand is Chagee ) 🍵
 3. Hobbies: Watching anime, gaming, eating ( I really like 小笼包 ）
 <!--
 **TeaAddicttt/TeaAddicttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
