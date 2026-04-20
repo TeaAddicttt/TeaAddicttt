@@ -1,12 +1,13 @@
-## Hi there :D
+### Hi there! :D I'm Bernice Teo En Qi 
 
-Im currently learning how to use Unity for game development and also dabbling in some blender.
-I have completed some 2d artworks and am hoping to apply them into an original 2D game
+Im currently learning how to use Unity and Blender for game development✨
+
+I have completed some 2d artworks and am hoping to apply them into an original 2D game. ><
 
 ### Fun facts:
-1. I have a pet lovebird called Bella
-2. I love many different types of tea. ( My fav brand is Chagee )
-3. Hobbies: Watching anime, gaming, eating
+1. I have a pet lovebird called Bella 🐦
+2. I love many different types of tea. ( My fav brand is Chagee ) 🍵
+3. Hobbies: Watching anime, gaming, eating ( I really like 小笼包 ）
 <!--
 **TeaAddicttt/TeaAddicttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
