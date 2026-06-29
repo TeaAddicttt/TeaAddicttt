@@ -1,4 +1,4 @@
-### Hi there! :D I'm Bernice Teo En Qi 
+### Hi there! :D I'm Bernice 
 
 Im currently learning how to use Unity and Blender for game development✨
 
